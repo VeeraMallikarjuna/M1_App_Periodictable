@@ -5,4 +5,5 @@ To use the knowledge of the periodic table to solve problems in health, technolo
 * It is based on modern periodic table.
 * By giving the Atomic Name of the elememt, it shows the symbol ,number ,and weight of that element.
 ## High Level Requirements:
-The starting Letter of the Atomic Name must be capital.
+* The starting Letter of the Atomic Name must be capital.
+* You should know the Name of the Element.
