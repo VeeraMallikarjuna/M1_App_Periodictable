@@ -4,3 +4,5 @@
 [![CI](https://github.com/VeeraMallikarjuna/github-slideshow/actions/workflows/main.yml/badge.svg)](https://github.com/VeeraMallikarjuna/github-slideshow/actions/workflows/main.yml)
 
 [![Linux C/C++ CI](https://github.com/VeeraMallikarjuna/M1_App_Periodictable/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/VeeraMallikarjuna/M1_App_Periodictable/actions/workflows/c-cpp.yml)
+
+[![Contribution Check - Git Inspector](https://github.com/VeeraMallikarjuna/M1_App_Periodictable/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/VeeraMallikarjuna/M1_App_Periodictable/actions/workflows/gitinspector.yml)
