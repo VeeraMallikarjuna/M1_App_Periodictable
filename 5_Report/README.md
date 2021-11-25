@@ -33,3 +33,6 @@ The starting Letter of the Atomic Name must be capital.
 You should know the Name of the Element.
 ## Low Level Requirements:
 NO need of atomic weight and number of that element.
+
+## CONCLUSION
+ By giving the proper atomic name as the input , the web Application determine its atomic properties of that element.
