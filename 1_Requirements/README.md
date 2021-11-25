@@ -15,6 +15,12 @@ WHERE- Laboratories and Educational Institutions.
 
 HOW- This Application is Implemented Using Basic C.
 
+## SWOT Analysis
+#### Strength
+Easy To Understand and
+It is Useful to get Valid Information.
+#### Weakness
+The output only comes when you give the valid atomic name.
 ## High Level Requirements:
 * The starting Letter of the Atomic Name must be capital.
 * You should know the Name of the Element.
