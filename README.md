@@ -10,3 +10,5 @@
 [![Windows C/C++ CI](https://github.com/VeeraMallikarjuna/M1_App_Periodictable/actions/workflows/windows_c-ccp.yml/badge.svg)](https://github.com/VeeraMallikarjuna/M1_App_Periodictable/actions/workflows/windows_c-ccp.yml)
 
 [![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/VeeraMallikarjuna/M1_App_Periodictable/actions/workflows/valgrid.yml/badge.svg)](https://github.com/VeeraMallikarjuna/M1_App_Periodictable/actions/workflows/valgrid.yml)
+
+[![C/C++ CI UnitTesting](https://github.com/VeeraMallikarjuna/M1_App_Periodictable/actions/workflows/unit_testing.yml/badge.svg)](https://github.com/VeeraMallikarjuna/M1_App_Periodictable/actions/workflows/unit_testing.yml)
